@@ -18,7 +18,7 @@ A Computer Vision application that uses hand gestures to control the system volu
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/hand-gesture-volume-control.git](https://github.com/YOUR_USERNAME/hand-gesture-volume-control.git)
+   git clone https://github.com/this-is-abijith/hand-gesture-volume-control.git
    cd hand-gesture-volume-control
 2. **Install dependencies**
 ```bash
